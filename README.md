@@ -56,7 +56,7 @@ This test framework uses ReportPortal as reporting tool. You need to update conf
 
 To run the Cypress UI tests, use the following command:
 
-    npx cypress install
+    npx cypress run
 
 This command will launch the Cypress Test Runner, allowing you to interactively run and debug your UI tests in various browsers.
 
