@@ -1,0 +1,9 @@
+{
+  "name": "ui-test-automation",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "@reportportal/agent-js-cypress": "^5.1.2",
+    "cypress": "^12.17.1"
+  }
+}

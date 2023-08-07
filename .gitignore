@@ -1,0 +1,10 @@
+# Log file
+*.log
+*.iml
+
+
+.classpath
+.project
+.idea/
+.settings/
+node_modules/
