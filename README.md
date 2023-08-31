@@ -47,10 +47,10 @@ Before you begin, ensure you have the following software installed:
 ### Usage
 This test framework uses ReportPortal as reporting tool. You need to update configuration in cypress.config.js file:
 
-    endpoint: '{REPORT_PROTAL_ENDPOINT}',
-    apiKey: '{REPORT_PROTAL_API_KEY}',
-    launch: '{REPORT_PROTAL_EXECUTION_NAME}',
-    project: '{REPORT_PROTAL_PROJECT_NAME}',
+    endpoint: '{REPORT_PORTAL_ENDPOINT}',
+    apiKey: '{REPORT_PORTAL_API_KEY}',
+    launch: '{REPORT_PORTAL_EXECUTION_NAME}',
+    project: '{REPORT_PORTAL_PROJECT_NAME}',
     description: '',
     attributes: []
 
